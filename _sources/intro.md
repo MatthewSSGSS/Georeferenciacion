@@ -1,0 +1,3 @@
+# Introduccion
+
+El análisis geoespacial se ha consolidado como una herramienta fundamental para comprender las dinámicas territoriales, sociales y económicas en diferentes contextos. En este trabajo se hace uso de información georreferenciada correspondiente al departamento de La Guajira, con el fin de representar y analizar sus municipios a través de mapas temáticos. Para ello, se parte de un shapefile oficial de los municipios de Colombia, que permite identificar no solo los límites administrativos, sino también realizar procesos de filtrado selectivo, como la visualización de municipios específicos de interés, por ejemplo, Riohacha y Maicao.
